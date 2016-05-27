@@ -1,0 +1,70 @@
+/*Container Styles*/
+.container-fluid{
+  background-color: #666;
+  color: #222;
+  text-shadow: 0.5px 0.5px 0.5px #fff;
+}
+
+/*Nav Styles*/
+.navbar{
+  background-color: lightblue;
+  font-style: italic;
+  text-decoration: none;
+  margin:0;
+}
+
+/*Banner Styles*/
+.banner{
+  text-align: center;
+  font-style: italic;
+  padding: 40px;
+}
+
+.banner h1{
+  font-size: 5em;
+}
+
+.banner p{
+  font-size: 1.5em;
+}
+
+
+/*Carousel Styles*/
+#carousel-example-generic{
+background-color: #444;
+}
+
+.carousel-indicators{
+  margin-bottom: 0px;
+}
+
+#carousel-example-generic img{
+  width: 1000px;
+  height: 600px;
+  margin: 30px auto;
+  border-radius: 10px;
+}
+
+/*Jumbotron Styles*/
+.jumbotron{
+  background-color: lightblue;
+  font-style: italic;
+  text-align: center;
+  width: 50%;
+  margin: 50px auto;
+  border-radius: 10px;
+}
+
+.jumbotron a{
+  color: #222;
+}
+
+/*Footer Styles*/
+footer{
+  background-color: #444;
+  height: 100px;
+  text-align: center;
+  color: #222;
+  padding-top: 15px;
+  font-style: italic;
+}
