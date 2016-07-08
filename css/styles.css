@@ -68,3 +68,10 @@ footer{
   padding-top: 15px;
   font-style: italic;
 }
+
+@media only screen and (max-width: 920px) {
+  #carousel-example-generic img {
+    width: 500px;
+    height: 300px;
+  }
+}
